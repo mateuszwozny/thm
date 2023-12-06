@@ -1,2 +1,1 @@
-# thm
-Platforma Try Hack Me
+asdasdasds
